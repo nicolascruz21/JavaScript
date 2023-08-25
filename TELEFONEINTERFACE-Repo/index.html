@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Consulta de Contatos</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .header-top {
+            background-color: #1b2f62;
+            height: 112px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0 20px;
+        }
+
+        .header-logo {
+            width: 200px; /* Defina o tamanho desejado para a imagem */
+        }
+
+        .header-logo img {
+            width: 100%;
+            height: auto;
+        }  
+
+    </style>
+</head>
+<body>
+    <div class="header-top">        
+            <img src="images/Design sem nome (14).png" alt="Logo" /> 
+        </a>    
+        <button id="btnNovaConsulta">Nova Consulta</button> 
+    </div>
+    <h1>Consulta de Contatos</h1>
+    <label for="consultaPor">Pesquisar por:</label>
+    <select id="consultaPor">
+        <option value="" selected disabled>Selecione uma opção</option> 
+        <option value="nome">Nome</option>
+        <option id="lbl_Departamento" value="departamento">Coordenadoria</option>
+    </select>
+    <div id="campoPesquisa"></div>
+
+    <p id="resultado"></p>
+    <div id="containerBotao">
+      </div>
+      <div class="footer">
+        © 2023 By Nicolas Farias - v0.1
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
