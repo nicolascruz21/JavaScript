@@ -18,17 +18,15 @@ Este projeto é um **Consultador de Contatos responsivo**, onde os usuários pod
 
 1. **Clone** este repositório para o seu computador utilizando o seguinte comando:
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/nicolascruz21/TELEFONEINTERFACE-Repo.git
 
-arduino
-Copy code
+
 
 2. Navegue até o diretório do projeto:
 
 cd seu-repositorio
 
-markdown
-Copy code
+
 
 3. Abra o arquivo `index.html` no seu navegador para acessar o Consultador de Contatos Responsivo.
 
