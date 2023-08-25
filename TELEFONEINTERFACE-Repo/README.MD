@@ -41,5 +41,11 @@ Contribuições são bem-vindas! Se você encontrar um bug, tiver uma sugestão 
 Este projeto está licenciado sob a **Licença MIT** - veja o arquivo [LICENSE](
 
 ## Demonstrativo!
+<a href="https://imgur.com/NhYTKf3"><img src="https://i.imgur.com/NhYTKf3.png" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/0VwOBGY"><img src="https://i.imgur.com/0VwOBGY.png" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/g8Cxm4P"><img src="https://i.imgur.com/g8Cxm4P.png" title="source: imgur.com" /></a>
+
 <a href="https://imgur.com/rUVDlut"><img src="https://i.imgur.com/rUVDlut.png" title="source: imgur.com" /></a>
 
