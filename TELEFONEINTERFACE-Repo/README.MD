@@ -40,6 +40,6 @@ Contribuições são bem-vindas! Se você encontrar um bug, tiver uma sugestão 
 
 Este projeto está licenciado sob a **Licença MIT** - veja o arquivo [LICENSE](
 
-## Demonstrativo Na pasta Images!
+## Demonstrativo!
 <a href="https://imgur.com/rUVDlut"><img src="https://i.imgur.com/rUVDlut.png" title="source: imgur.com" /></a>
 
