@@ -40,6 +40,5 @@ Contribuições são bem-vindas! Se você encontrar um bug, tiver uma sugestão 
 
 Este projeto está licenciado sob a **Licença MIT** - veja o arquivo [LICENSE](
 
-## Demonstrativo
+## Demonstrativo Na pasta Images!
 
-![Print da Interface](images/print1.png)
